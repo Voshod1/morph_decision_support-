@@ -1,5 +1,7 @@
 # morph_decision_support-
 Decision support system tham is based on the methon of morphological analysis
+
+
 User interface in ukrainian, uses QtPy.
 
 main.py - main file for launching;
